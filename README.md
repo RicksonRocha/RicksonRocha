@@ -1,12 +1,12 @@
-<h1>Hello, World! Eu sou o Rickson! 👋</h1>
+<h1>Hello, World! Eu sou o Rickson! 👋🏽🖖🏽</h1>
 <div> 
-  <h3>🤪 Sobre mim:</h3>
+  <h3>🤠 Sobre mim:</h3>
   <ul>
     <li>🏛️ Estuda na UFPR - Universidade Federal do Paraná</li>
     <li>📚 Cursa Tecnologia em Análise e Desenvolvimento de Sistemas</li>
-    <li>💚💛 Mora em Curitiba, PR - Brasil</li>
     <li>💻 Front-end Software Developer</li>
-    <li>🎞️ Cinéfilo</li>
+    <li>🇧🇷 Mora em Curitiba, PR - Brasil</li>
+    <li>🎥 Cinéfilo</li>
   </ul>
 </div>
 

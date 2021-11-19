@@ -20,7 +20,7 @@
 
 <p align="left">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RicksonRocha&theme=github_dark&show_icons=true">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicksonRocha&layout=compact&langs_count=8&hide=HCL&theme=github_dark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicksonRocha&layout=compact&langs_count=8&hide=objective-c,java,ruby,starlark,shell&HCL&theme=github_dark">
 </p>
 
 <h3>🛠️ Linguagens e Ferramentas:</h3>
